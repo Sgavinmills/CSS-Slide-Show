@@ -13,6 +13,7 @@ This simple slideshow was made as a mini-project to get some practice using CSS 
 
 It is fully responsive and will scale to any size. It simply allows a selection of photos to scroll across the stage and give a little jump in the center.
 
+You can see it in action on my portfolio site: The progression of my terrible websites displayed in a live slideshow can be viewed on my [portfolio](https://sgavinmills.github.io/index.html#webHistory).
 I hope you like it.
 
 ![example-image](./readMePhoto.png)
